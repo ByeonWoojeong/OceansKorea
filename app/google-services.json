@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "436183676074",
+    "firebase_url": "https://oceanskorea-beddf.firebaseio.com",
+    "project_id": "oceanskorea-beddf",
+    "storage_bucket": "oceanskorea-beddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436183676074:android:61ef885a18cb9edd",
+        "android_client_info": {
+          "package_name": "kr.epochcorp.oceanskorea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436183676074-4kjakhj0r3dn5jlo84qvhee8b8jpi36p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTtDr6Vtwtq5eVeJSf--7KJ92NwavLcAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436183676074-4kjakhj0r3dn5jlo84qvhee8b8jpi36p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
